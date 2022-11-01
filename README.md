@@ -6,4 +6,4 @@
 
 <img src="./brot-1024.png" width="50%">
 
-*simple mandelbrot render from scratch, Oct 31*
+*simple mandelbrot render from scratch, Nov 01*
