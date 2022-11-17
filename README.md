@@ -12,8 +12,10 @@
 
 *Nov 01, [PureMath](https://github.com/nptnl/puremath) (Python)*
 
-<img src="./burning-ship-8192-128.png" width=50%>
+<img src="./burning-ship-gets-nerfed.png" width=50%>
 
-*large render of the burning ship fractal from scratch*
+*speedy render of the burning ship fractal from scratch*
+
+*check out the full render [here](./burning-ship-8192-128.png) with caution*
 
 *Nov 16, [Ferrum](https://github.com/nptnl/ferrum) (Rust)*
