@@ -11,3 +11,9 @@
 *simple mandelbrot render from scratch*
 
 *Nov 01, [PureMath](https://github.com/nptnl/puremath) (Python)*
+
+<img src="./burning-ship-8192-128.png" width=50%>
+
+*large render of the burning ship fractal from scratch*
+
+*Nov 16, [Ferrum](https://github.com/nptnl/ferrum) (Rust)*
