@@ -14,8 +14,8 @@
 
 <img src="./burning-ship-gets-nerfed.png" width=50%>
 
-*speedy render of the burning ship fractal from scratch*
+*sizeable render of the burning ship fractal from scratch*
 
-*check out the full render [here](./burning-ship-8192-128.png) with caution*
+*check out the full image [here](./burning-ship-8192-128.png) with caution*
 
-*Nov 16, [Ferrum](https://github.com/nptnl/ferrum) (Rust)*
+*Nov 16, [Chromium](https://github.com/nptnl/chromium) (Rust)*
