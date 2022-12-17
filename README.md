@@ -1,14 +1,14 @@
 ## **how do markdown?**
 
-<img src="./cube.gif" height="200" align="left" left="20">
+<img src="./cube.gif" width="30%">
 
-<img src="./mandelbrot-gets-nerfed.png" height="200" align="center">
+*Oct 28, [nptnl/puremath](https://github.com/nptnl/puremath)*
 
-<img src="./burning-ship-gets-nerfed.png" height="200" align="right" left="20">
+<img src="./mandelbrot-gets-nerfed.png" width="30%">
 
 *Nov 01, [nptnl/puremath](https://github.com/nptnl/puremath)*
 
-*Oct 28, [nptnl/puremath](https://github.com/nptnl/puremath)*
+<img src="./burning-ship-gets-nerfed.png" width="30%">
 
 *Nov 16, [nptnl/mtrio/chromium](https://github.com/nptnl/chromium)*
 
