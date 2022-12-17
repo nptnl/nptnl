@@ -1,21 +1,15 @@
 ## **how do markdown?**
 
-<img src="./cube.gif" width="50%">
+<img src="./cube.gif" width="30%">
 
-*rotating cube rendered from scratch in my terminal*
+*Oct 28, [nptnl/puremath](https://github.com/nptnl/puremath)*
 
-*Oct 28, [PureMath](https://github.com/nptnl/puremath)*
+<img src="./mandelbrot-gets-nerfed.png" width="30%">
 
-<img src="./mandelbrot-gets-nerfed.png" width="50%">
+*Nov 01, [nptnl/puremath](https://github.com/nptnl/puremath)*
 
-*simple mandelbrot render from scratch*
+<img src="./burning-ship-gets-nerfed.png" width="30%">
 
-*Nov 01, [PureMath](https://github.com/nptnl/puremath)*
-
-<img src="./burning-ship-gets-nerfed.png" width=50%>
-
-*sizeable render of the burning ship fractal from scratch*
-
-*Nov 16, [Chromium](https://github.com/nptnl/chromium) (Rust)*
+*Nov 16, [nptnl/mtrio/chromium](https://github.com/nptnl/chromium)*
 
 images displayed are low-resolution for faster profile loading. View the full renders [here](https://github.com/nptnl/nptnl)
